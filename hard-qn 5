@@ -1,0 +1,6 @@
+a=input().split()
+b=input().split()
+l=a+l
+for i in i:
+    if((i not in a)or(i not in b)):
+       print(i," ",end=' ')
